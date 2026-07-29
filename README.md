@@ -41,10 +41,3 @@ git clone [https://github.com/axmstandart1-beep/axioma.git](https://github.com/a
 cd axioma
 # Run perceptual compression
 python3 av1_axioma.py
-License & Commercial Use
-axioma is source-available for audit, study, and contributions.
-· ✅ Free for non-commercial use, academic research, and personal projects.
-· ✅ Open to contributions via Pull Requests.
-· ❌ Unauthorized commercial integration or resale is strictly prohibited.
-· 💰 Commercial licensing is available under a performance-based royalty model.
-axioma — Perceive the difference.
